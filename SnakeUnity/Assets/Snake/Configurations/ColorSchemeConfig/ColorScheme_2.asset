@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e98ee9010bd2f674eb3526c5be4c56c0, type: 3}
+  m_Name: ColorScheme_2
+  m_EditorClassIdentifier: 
+  cameraColor: {r: 0.23921569, g: 0.3372549, b: 0.34117648, a: 1}
+  ssaoColor: {r: 0.21568628, g: 0.23137255, b: 0.25490198, a: 1}
+  textColor: {r: 0.19607843, g: 0.8117647, b: 0.64705884, a: 1}
+  textLineColor: {r: 0.1254902, g: 0.5019608, b: 0.49019608, a: 1}
+  floorColor: {r: 0.047058824, g: 0.4117647, b: 0.41568628, a: 1}
+  borderColor: {r: 0.050689653, g: 0.48436773, b: 0.49, a: 1}
+  objectNetralColor1: {r: 0.7294118, g: 0.19215687, b: 0.49411765, a: 1}
+  objectNetralColor2: {r: 0.734, g: 0.15927796, b: 0.42011818, a: 1}
+  objectNetralColor3: {r: 0.699, g: 0.14189701, b: 0.37435442, a: 1}
+  objectAssaultColor: {r: 0.21568628, g: 0.23921569, b: 0.2627451, a: 1}
+  snakeColor: {r: 0.93333334, g: 0.62352943, b: 0.11372549, a: 1}
+  feedColor: {r: 0.93333334, g: 0.62352943, b: 0.11372549, a: 1}

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8277866954945449743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 487927904544415654}
+  - component: {fileID: 7452015040584500327}
+  m_Layer: 0
+  m_Name: Coloring
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &487927904544415654
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8277866954945449743}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7452015040584500327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8277866954945449743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aefbbf8843efab0409f061c988faf9bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainCamera: {fileID: 0}
+  ssao: {fileID: 0}
+  textLineColor: {fileID: 2100000, guid: 5f12ba2bb01ad26448f40969df5c3e3b, type: 2}
+  floorColor: {fileID: 2100000, guid: 27aaaad55f84c0845818a59c058b19f4, type: 2}
+  borderColor: {fileID: 2100000, guid: 5d1827660e32fc44bbd9d6d5c47173df, type: 2}
+  objectNetralColor1: {fileID: 2100000, guid: edc5b7f97ff4d8a46a42e6dafd8e5180, type: 2}
+  objectNetralColor2: {fileID: 2100000, guid: 9d1a848e0c7fa9d488b7edcd6822dac0, type: 2}
+  objectNetralColor3: {fileID: 2100000, guid: 81c37b950d55a3140ac51ca87046a5d4, type: 2}
+  objectAssaultColor: {fileID: 2100000, guid: a38d3585acbf5f045bb7c426f8e0bbf2, type: 2}
+  snakeColor: {fileID: 2100000, guid: 3da1a8b5f8d02da4a9ddda2b779b66fc, type: 2}
+  feedColor: {fileID: 2100000, guid: f2a6510ce0e92e345966b7f022138463, type: 2}

@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 129f697268c57b64ca80e8865712641e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1987597388283149061
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_0
+  - first:
+      213: 5157618197018632594
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_1
+  - first:
+      213: 7035852857551176442
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_2
+  - first:
+      213: -4777064974509085908
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_3
+  - first:
+      213: 6215515970553886471
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_4
+  - first:
+      213: 8544819080641388596
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_5
+  - first:
+      213: -8435262655055825256
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_6
+  - first:
+      213: 6849995039635549089
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_7
+  - first:
+      213: 4698170689126186822
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_8
+  - first:
+      213: -3659133942878317948
+    second: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 616
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e82c8e7b254934090b106535801f1b
+      internalID: -1987597388283149061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 614
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79842a82b9b1c4c4db6363d93b3c34eb
+      internalID: 5157618197018632594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 616
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf94a6ad83de9a4fb9161b76af831f1
+      internalID: 7035852857551176442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 618
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadff493faecf2f4bb508a6af94040c2
+      internalID: -4777064974509085908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 613
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5532ab15f1f06ff4abee0fc800d6f095
+      internalID: 6215515970553886471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f9da08072b5142b5a907014d8bac2
+      internalID: 8544819080641388596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 421
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f05eec9cf6f354db484fc62bb450d6
+      internalID: -8435262655055825256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 236
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b1216424cce2f43b91b30af43774b4
+      internalID: 6849995039635549089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 47
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db2f4afcfbf4c4cbd3c7a423374240
+      internalID: 4698170689126186822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_181194184-stock-illustration-basic-3d-geometric-shapes-isolated_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 53
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb04e7eaf4d3347b99c67097dd936a
+      internalID: -3659133942878317948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0ccff81cbf6fb5549b1b75fb7a9c4824
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
